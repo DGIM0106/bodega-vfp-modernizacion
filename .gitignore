@@ -1,0 +1,17 @@
+# Temporales y respaldos de Visual FoxPro
+*.bak
+*.tmp
+*.tbk
+*.fpt.bak
+*.fxp
+
+# Archivos de entorno y configuración local del usuario
+*.vca
+*.err
+
+# Archivos de sistema operativo e IDEs
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vs/
+.vscode/

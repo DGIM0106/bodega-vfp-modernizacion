@@ -1,0 +1,8 @@
+# Sistema de Bodega - Modernización VFP a .NET
+
+Proyecto formativo y experimental de gestión de inventario/bodega.
+
+## Estructura
+- `src/vfp-app/`: Aplicación de escritorio y datos nativos en Visual FoxPro 6.
+- `src/backend/`: API y servicios en .NET Core / C#.
+- `deploy/`: Scripts de despliegue para servidor Linux y base de datos.
